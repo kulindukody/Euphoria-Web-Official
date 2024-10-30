@@ -1,10 +1,17 @@
+import Navbar from "@/componets/Navbar";
+import './globals.css';
+
 
 export default function Home() {
   return (
 
     <div>
 
-      <h1>Hello</h1>
+      <Navbar/>
+
+
+
+      
 
 
 
